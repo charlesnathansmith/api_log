@@ -1,2 +1,2 @@
 # api_log
-API logging Pin tool
+Simple Intel Pin tool to log windows API calls
